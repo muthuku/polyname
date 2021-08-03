@@ -1,0 +1,1796 @@
+All_names
+JL 271634 291210 291681 291689 291732 291785 291893
+2000-01-27 2000-01-27 2010-10-05T20
+Photochromic poly(1 ! x-amino acid)s
+amino acid
+aromatic azo
+oxygen-carbon
+Azobenzene-containing poly(a-amino acid)s
+CH3
+CH3 CH 02 3 I N O
+Spiropyran Ico
+Me Icorocyanine
+benzene
+185-199 OI 250 350 450
+p-phenylazo-benzylL-aspartate
+-NH -- 2 CO I O C H2 N ~ N 6 CO-A
+-NH-CH-CO -- '\\r 7 CO I O Scheme 1. p-Phenylazobenzyl-
+dichloroethane
+pphenylazo-benzyl-L-aspartate
+n-octadecyl-Laspartate
+trifluoroethanol
+azo-modified poly(Lglutame)s
+185-199 -v-NH-CH-CO-V-NH-CH-CO- (H2)2 ( I H2)2 CO COON I NH N
+-10F _20f -30f 210
+azo-Glu
+azobenzenesulphonate
+azo-modified poly(Glu)
+distearyl dimethyl ammonium chloride
+retinal
+hydrocarbon
+hexafluoro-propanol
+sodium dodecyl sulphate
+Av-NH -- CO-1 / -NH-CH-COQ (H2)4 NH
+N (H2)4 NH2
+Azo-modified poly(L-lysine)
+SDS
+Azo-modified
+azo side -24 \\ / 2 v 3 4 340 1 ~ 400 a 1 i i i i L L 280 200 230 n m-~ 16 8 0 _8 -16 I-24
+44 trans 80 40 0 4 U 0 4I0
+z 10 5 o- 0-RZ+ Ai + Az + A,1 4A2'
+poly(Llysine)
+amide A
+amide
+alkyl
+solu- 193 CH
+N ' 3-- \\ / NOp (Z)2 i o CO COOH (Z)2 (Z)2 AV-NH-CH-CO-MNH-CH-CO-Nr Scheme 4
+Spiropyran-containing poly(L-glutamic acid )
+CH3CH3 ~ NO N02 (Z)2 Co i NH (2)4 NHz (H2)4 MN H-CH-CO-.
+Ir
+U O h_
+O CC ^ z CD p ~-n
+O ~ r -Ot
+N2
+Cp c ~ : $ o n
+O n ~ s 5,'
+.y O ran ran ' ` C 7S\
+CO ~ > O G1
+Dc ~ DDCM D ~ ` < O p O
+O $ D t3
+_p O C ~ D x 0 D O cl,' 0 0 cu
+O ' ` C o-a ' CAD
+3 O : ~ cbnD O O CD n O O
+Cf Z1 't
+O N
+O = ,.r ~ l co
+" C3 p ~ j C ' CD -O ~ O
+C1 \ " 't C ' O n
+O O
+CD i '.7 i i ~ C
+(0)x10-3 \\ \\1 vl i i i i i i i t i i \\ t t t dark
+phenoxy
+NO 1H
+NO
+Oprotonated merocyanine III
+lysine hydrochloride
+spiropyran-L-lysine
+L-lysine
+lysine
+dimethylsulphoxide
+DMSO
+NH3
+azomodified poly(L-glutamic acid )
+poly(pentapeptide)
+Brown
+Kongrauz
+Makromol
+Natarajan R.L
+Natarajan K.A
+Natarajan M. Shapiro K.A
+coverDisplayDate
+openaccessSponsorName
+N
+p-phenylazo-phenylalanine
+benzyl-L-aspartate
+COOH
+azo-modified poly(L-glutamic acid )
+c.m.c.
+L-glutamic acid
+phytochrome
+glutamates
+O
+Poly ( spiropyran-L-glutamate )
+Poly(L-glutamate)
+trifluoroacetic acid
+H
+poly(Lglutamate)
+MeOH
+amino
+dichloroacetic acid
+Plenum
+poly(\u03b1-amino acid )
+poly(\u03b1-amino acid)s
+Poly(amino acid )
+DAC
+TMP
+methanol
+NEt3
+merocyanine
+poly(L-glutamic acid )
+Poly(L-lysine)
+triethylamine
+poly(a-amino acid)s
+azo
+Spiropyran
+HFP
+azobenzene
+JL 271634 291210 291681 291689 291732 291785 291893
+a-amino
+a-carboxy
+NHZCHRCOOH
+NH3CHRCOO- +H+ OHI NHSCHRCOOH
+NH2CHRC00-
+H+ NHSCHRCOO xa
+CA+ 1 + K1 / l0pH + K1Kz / 102pH
+D,L-Thr
+LAla
+L-Glu
+amino
+sulfonate polystyrene
+glacial acetic acid
+TRONAC
+ninhydrin
+chromogen
+caCOO-
+amino acid cation NH ~
+CHRCOOH
+NH3 CHRCOOH-H+
+[ ResNH3 CHRCOOH][H+] ( 5 ) [ NH3 CHRCOOH][H+]
+Trp
+Phe
+Ser
+Leu
+Ala
+Gly
+Glu
+NH3 CH(COO-)RNH3
+NH3CH (COOH)RNH3
+NH3 CH(COOH)RNH3 K2 H r ResZNH3CH(COOH)RNH3 + 2H+ ( 6 ) 12 4H
+CH(COOH)RNH3
+[ ReszNH3 CH(COOH) RNH3 ][H]2 KH [H]2[NH3 CH(COOH)RNH3 ]
+Arg
+Lys
+CHRCOO-
+Kt = KH x Kl
+OHt
+alanine
+glycyl leucine
+glycyl leucyl valine
+ResNH3CHRCOOH
+TOSH 10 0 H
+vicin
+NH3 CHRCOO-
+AG2O
+OHH
+cationhydrogen
+Meth.
+Meth
+1975 561 [19] D.J
+coverDisplayDate
+openaccessSponsorName
+Lanzhou 730000
+L-Trp
+L-Phe
+L-Ser
+L-Leu
+L-Lys
+L-Arg
+NaOH
+NH3 CHRCOOH
+H+
+Thr
+NH3
+cation-hydrogen
+HCl
+hydrogen
+amino acids
+amino acid
+JL 271634 291210 291681 291689 291732 291785 291893
+LI H
+carbon
+silica
+silica gel
+alumina
+Hg
+THF
+styrene-divinylbenzene
+PPh2
+preswollen polymeric amine
+acetone
+palla- dium acetate
+sodium hydroxide
+HC104-HN03
+1,2,3,4-tetracyanoethoxybutane
+cyclododecadiene
+E-CDT +H2
+Z-CDE E-CDE
+1 2 3 4
+CDA OH +H2
+E-CM E
+N
+I-Ph-CHZ-NRIR2-Rh(CO)ZCl
+se- H
+J-Ph-CH2-NH2-Rh(CO)2C1 98 73 2.1 9 I-Ph-CH2-NH(CH3)-Rh(CO)2CI 63 60 2.0 10-Ph-CH2-N(CH3)2-Rh(CO)2Cl 54 56 2.2 i l I-Ph-CH2-NEt2-Rh(CO)2C1 40 48 2.4 12 I-Ph-CH2-N(CH2COOH)2-Rh(CO)2CI 36 47 1.8 13 I-Ph-CH2NH(C6H4COOH)-Rh(CO)2Cln
+C6H4COOH
+ortho-carboxyphenyl
+tertiary amine
+(CH3)2C = CH-COCH3 94 (CH3)2CHCH2COCH3
+CH3-CH = CH-CHO 96 CH3CH2CH2CH0 : 96 100 0 14
+CH2 = CH-CHO 100 CH3CH2CH0 : 100 100 0 14 cyclopentadiene 84 cyclopentene
+Pd % o of
+polymeric primary amine
+I-Ph-CH2-N(CH3)Z
+carbon-carbon
+(CH3)ZC = CH-CO-CH3
+MO (CH3)ZCH-CHZ-CO-CH3
+1 2 3 4 5 6 7 8 9 10
+0.1 0 0 0 0 0 0 0 0
+Makromol
+coverDisplayDate
+openaccessSponsorName
+Tianjin 300071
+RuC12 (PPh3)3
+nitrogen
+E-CDT E
+CDA
+MIBK
+olefins
+Chalk
+Sun H
+Li B
+crotonaldehyde acrylic aldehyde
+Rh
+cyclopentadiene
+mesityl oxide
+Benzene
+methanol
+Ru
+phosphine
+amine
+Pd
+H
+polystyrene
+polyunsaturated cycloolefines
+carbonyl
+Ruthenium
+CDE
+Palladium
+Li
+Rhodium
+1,5,9-cyclododecatriene
+JL 271634 291210 291681 291689 291732 291785 291893
+hexaalkylguanidinium chlorides
+phospho-
+SSDI 1381-5148(94)00045-7 nium polystyrenes
+alumina
+phosphorus oxychloride
+phenols
+thiols
+phosphonium chloride
+O RCOCI
+O RCOOH
+,ooh so so ~ d0 E zo 0 50 100 150 200 250
+Bu4N+,Cl-
+1H
+tetramethylsilane
+bore
+n-Butylamine
+3-chloropropyl trimethoxysilane
+n-butylammonium chloride
+N-butylaminopropyl trimethoxysilane
+N-butylaminopropyl silane
+triethylamine
+Triethylammonium chloride
+pentabutyl propyl trimethoxysilane guanidinium chloride
+K2G+ C
+onium chloride
+quaternary ammonium
+N+
+dry ice
+2ethyl hexanoic acid
+Cl-
+hydrochloric acid
+phosphonium chlorides
+alkylammonium
+Silica-supported guanidinium chloride
+Si-O-Si
+Si-C
+hexaalkylguanidinium chloride trimethoxysilane
+aminobutyl propyl trimethoxysilane
+tetrabutyl chloroamidinium chloride
+trimethoxysilane
+K1G+ K2G+
+phosphorus
+chloroalkyl silica
+secondary amine
+opium chloride
+Et3N
+Toluene reflux + CI ' N Bud \\Bu Bu f Ome Du Bu I j u (Meo)3Si-(CH2)3-N\\ / N\\ 1Tolene
+i-(CH2)3- N N\\ \\C
+silanol
+OH
+chloride anion associated OMe silicabealJ -O -SI -(CHZ)3 -CI OMe
+pseudocarboxylate
+alkylsulfonic or trihalogeno acetic acids
+chlorosulfonyl
+chlorocarbonyl
+fatty acids
+stearic acid
+,2-ethyl hexanoyl anhydride
+.a t so 0 t i m 80 40 20- ~ ,aoT 60 120 ,80 240
+K1G+ O K2G+ Nsk* silica No
+guanidinium chloride
+acyl 100 80-60-: 0 401 201 0 60 720 180
+chlorides
+opium chlorides
+U O
+2-ethyl hexanoyl chloride
+O 0 $ iN+ O SIP+ D
+,oo 60 O 40 20 -T- ' ~ 7T7 r ~ \ " it'-1 0 60 120 180 240 300 360 420
+catalyst 30
+anhydride carbonyl
+carbon
+phorphorus oxychloride [19]
+CI RCOOCOCI
+coverDisplayDate
+openaccessSponsorName
+polystyrenes
+chloroformates
+guanidinium silane
+Chloropropyl trimethoxysilane
+chloropropylated silica
+tributylphosphine
+methylene chloride
+tributylamine
+alkylguanidinium chloride
+silane
+mercury
+RCOOH
+K1G+
+2-ethyl hexanoyl anhydride
+anhydride
+butyl
+thionyl chloride
+Silica-supported hexaalkylguanidinium chlorides
+polystyrene
+hexabutyl guanidinium chloride
+Si
+HMDS
+H
+Cl
+carboxylic acid
+K2G+
+guanidinium
+Ph
+acyl chloride
+2-ethyl hexanoic acid
+chloride
+acyl chlorides
+phosphonium
+ammonium
+hexaalkylguanidinium chloride
+Hg
+nitrogen
+toluene
+phosgene
+carboxylic acids
+Silica
+JL 271634 291210 291681 291689 291732 291785 291893
+LAI 4YA
+acrylic oligomers
+vinyl
+aryl acetylene
+Zn
+acetic acid
+PPh3
+NaBH4
+ketone
+Na104
+polybutadiene
+poly(isobutylene-co-diene)s
+diacid
+145-155 R O
+O o-
+O o 'O Q .__ o 0
+poly(methacrylate-co-butadiene)
+CH20K CHO OR COOH
+p O O
+O R R Oligomers
+steroids
+MEHQ
+sodium hydroxide
+calcium chloride
+Potassium persulphate
+potassium dihydrogen phosphate
+sodium dodecylsulphate
+Amberlyst A26
+chloride
+thiosulphate
+calcium hydride
+phosphorus pentoxide
+poly(butyl methacrylate-co-butadiene )
+Sodium dodecylsulphate Potassium persulphate Potassium dihydrogen phosphate
+oxygen
+chloroform
+JEOL
+borohydride acid
+dry nitrogen
+nitrogen
+alcohols
+dihydroxy
+BD2 7.5 PBMlBDl 1
+PBMA 0 Ozonization temperature 20 0 -60 20 0 -60 20 0 -60
+11,000 26,700 12,500 32,900 16,700 38,800 97,400 216,000 75,600 210,200 393,500 873,000
+o.oo 4000 3600 2800 2000 1500 CH
+carbon-carbon
+tosylate ester
+PBMA tosylate
+phosphine-
+BD1 1 20 10,100 28,300 0 11,500 30,700
+butyl methacrylate macroradical
+butadienyl
+Triphenyl phosphine
+triphenylphosineoxide
+PBMA 0 20 0 -60 156,000 89,800 542,000 1,455,200 714,000 2,974,300
+dialdehyde
+-OH
+1H
+145-155 1.2 1.0 c 0 o 0.8 0.6 0.4-4000 3600 3200 2800 2400 2000 1800 1600 1400 1200 1000 800 600
+13C-methyleneoxy
+carbon
+PBD
+Mn
+COOH
+- 0.8 O d L O N a 0.6 0.5 0,4 4000 3600 3200 2800 2400 2000 1800 1600 1400 12001000
+methylene carbons
+Tol
+LA1 4YA
+Methacrylate Butadiene Aldehyde Hydroxyl Carboxyl
+coverDisplayDate
+openaccessSponsorName
+carboxylic acid
+aldehydes
+sodium periodate
+Triethylamine
+argon
+Toluene
+Tosyl chloride
+THF
+Sodium borohydride
+borate
+olefin
+methyleneoxy carbons
+methyleneoxy carbon
+butyl methacrylate
+Methylenes
+penultimate
+OH
+Poly(butyl methacrylate-cobutadiene)s
+oligomers
+Butadiene
+diene
+phosphine
+methanol
+ozonide
+ozone
+H
+methylene
+carbons
+methacrylate
+polystyrene
+13C
+diphenyl phosphine
+tosylate
+borohydride
+periodate
+poly(butyl methacrylate )
+Carboxyl
+ozonides
+aldehyde
+hydroxyl
+JL 271634 291210 291681 291689 291732 291785 291893
+2000-01-27 2000-01-27 2010-10-05T20
+Photochromic poly(1 ! x-amino acid)s
+amino acid
+aromatic azo
+oxygen-carbon
+Azobenzene-containing poly(a-amino acid)s
+CH3
+CH3 CH 02 3 I N O
+Spiropyran Ico
+Me Icorocyanine
+benzene
+185-199 OI 250 350 450
+p-phenylazo-benzylL-aspartate
+-NH -- 2 CO I O C H2 N ~ N 6 CO-A
+-NH-CH-CO -- '\\r 7 CO I O Scheme 1. p-Phenylazobenzyl-
+dichloroethane
+pphenylazo-benzyl-L-aspartate
+n-octadecyl-Laspartate
+trifluoroethanol
+azo-modified poly(Lglutame)s
+185-199 -v-NH-CH-CO-V-NH-CH-CO- (H2)2 ( I H2)2 CO COON I NH N
+-10F _20f -30f 210
+azo-Glu
+azobenzenesulphonate
+azo-modified poly(Glu)
+distearyl dimethyl ammonium chloride
+retinal
+hydrocarbon
+hexafluoro-propanol
+sodium dodecyl sulphate
+Av-NH -- CO-1 / -NH-CH-COQ (H2)4 NH
+N (H2)4 NH2
+Azo-modified poly(L-lysine)
+SDS
+Azo-modified
+azo side -24 \\ / 2 v 3 4 340 1 ~ 400 a 1 i i i i L L 280 200 230 n m-~ 16 8 0 _8 -16 I-24
+44 trans 80 40 0 4 U 0 4I0
+z 10 5 o- 0-RZ+ Ai + Az + A,1 4A2'
+poly(Llysine)
+amide A
+amide
+alkyl
+solu- 193 CH
+N ' 3-- \\ / NOp (Z)2 i o CO COOH (Z)2 (Z)2 AV-NH-CH-CO-MNH-CH-CO-Nr Scheme 4
+Spiropyran-containing poly(L-glutamic acid )
+CH3CH3 ~ NO N02 (Z)2 Co i NH (2)4 NHz (H2)4 MN H-CH-CO-.
+Ir
+U O h_
+O CC ^ z CD p ~-n
+O ~ r -Ot
+N2
+Cp c ~ : $ o n
+O n ~ s 5,'
+.y O ran ran ' ` C 7S\
+CO ~ > O G1
+Dc ~ DDCM D ~ ` < O p O
+O $ D t3
+_p O C ~ D x 0 D O cl,' 0 0 cu
+O ' ` C o-a ' CAD
+3 O : ~ cbnD O O CD n O O
+Cf Z1 't
+O N
+O = ,.r ~ l co
+" C3 p ~ j C ' CD -O ~ O
+C1 \ " 't C ' O n
+O O
+CD i '.7 i i ~ C
+(0)x10-3 \\ \\1 vl i i i i i i i t i i \\ t t t dark
+phenoxy
+NO 1H
+NO
+Oprotonated merocyanine III
+lysine hydrochloride
+spiropyran-L-lysine
+L-lysine
+lysine
+dimethylsulphoxide
+DMSO
+NH3
+azomodified poly(L-glutamic acid )
+poly(pentapeptide)
+Brown
+Kongrauz
+Makromol
+Natarajan R.L
+Natarajan K.A
+Natarajan M. Shapiro K.A
+coverDisplayDate
+openaccessSponsorName
+N
+p-phenylazo-phenylalanine
+benzyl-L-aspartate
+COOH
+azo-modified poly(L-glutamic acid )
+c.m.c.
+L-glutamic acid
+phytochrome
+glutamates
+O
+Poly ( spiropyran-L-glutamate )
+Poly(L-glutamate)
+trifluoroacetic acid
+H
+poly(Lglutamate)
+MeOH
+amino
+dichloroacetic acid
+Plenum
+poly(\u03b1-amino acid )
+poly(\u03b1-amino acid)s
+Poly(amino acid )
+DAC
+TMP
+methanol
+NEt3
+merocyanine
+poly(L-glutamic acid )
+Poly(L-lysine)
+triethylamine
+poly(a-amino acid)s
+azo
+Spiropyran
+HFP
+azobenzene
+JL 271634 291210 291681 291689 291732 291785 291893
+a-amino
+a-carboxy
+NHZCHRCOOH
+NH3CHRCOO- +H+ OHI NHSCHRCOOH
+NH2CHRC00-
+H+ NHSCHRCOO xa
+CA+ 1 + K1 / l0pH + K1Kz / 102pH
+D,L-Thr
+LAla
+L-Glu
+amino
+sulfonate polystyrene
+glacial acetic acid
+TRONAC
+ninhydrin
+chromogen
+caCOO-
+amino acid cation NH ~
+CHRCOOH
+NH3 CHRCOOH-H+
+[ ResNH3 CHRCOOH][H+] ( 5 ) [ NH3 CHRCOOH][H+]
+Trp
+Phe
+Ser
+Leu
+Ala
+Gly
+Glu
+NH3 CH(COO-)RNH3
+NH3CH (COOH)RNH3
+NH3 CH(COOH)RNH3 K2 H r ResZNH3CH(COOH)RNH3 + 2H+ ( 6 ) 12 4H
+CH(COOH)RNH3
+[ ReszNH3 CH(COOH) RNH3 ][H]2 KH [H]2[NH3 CH(COOH)RNH3 ]
+Arg
+Lys
+CHRCOO-
+Kt = KH x Kl
+OHt
+alanine
+glycyl leucine
+glycyl leucyl valine
+ResNH3CHRCOOH
+TOSH 10 0 H
+vicin
+NH3 CHRCOO-
+AG2O
+OHH
+cationhydrogen
+Meth.
+Meth
+1975 561 [19] D.J
+coverDisplayDate
+openaccessSponsorName
+Lanzhou 730000
+L-Trp
+L-Phe
+L-Ser
+L-Leu
+L-Lys
+L-Arg
+NaOH
+NH3 CHRCOOH
+H+
+Thr
+NH3
+cation-hydrogen
+HCl
+hydrogen
+amino acids
+amino acid
+JL 271634 291210 291681 291689 291732 291785 291893
+LI H
+carbon
+silica
+silica gel
+alumina
+Hg
+THF
+styrene-divinylbenzene
+PPh2
+preswollen polymeric amine
+acetone
+palla- dium acetate
+sodium hydroxide
+HC104-HN03
+1,2,3,4-tetracyanoethoxybutane
+cyclododecadiene
+E-CDT +H2
+Z-CDE E-CDE
+1 2 3 4
+CDA OH +H2
+E-CM E
+N
+I-Ph-CHZ-NRIR2-Rh(CO)ZCl
+se- H
+J-Ph-CH2-NH2-Rh(CO)2C1 98 73 2.1 9 I-Ph-CH2-NH(CH3)-Rh(CO)2CI 63 60 2.0 10-Ph-CH2-N(CH3)2-Rh(CO)2Cl 54 56 2.2 i l I-Ph-CH2-NEt2-Rh(CO)2C1 40 48 2.4 12 I-Ph-CH2-N(CH2COOH)2-Rh(CO)2CI 36 47 1.8 13 I-Ph-CH2NH(C6H4COOH)-Rh(CO)2Cln
+C6H4COOH
+ortho-carboxyphenyl
+tertiary amine
+(CH3)2C = CH-COCH3 94 (CH3)2CHCH2COCH3
+CH3-CH = CH-CHO 96 CH3CH2CH2CH0 : 96 100 0 14
+CH2 = CH-CHO 100 CH3CH2CH0 : 100 100 0 14 cyclopentadiene 84 cyclopentene
+Pd % o of
+polymeric primary amine
+I-Ph-CH2-N(CH3)Z
+carbon-carbon
+(CH3)ZC = CH-CO-CH3
+MO (CH3)ZCH-CHZ-CO-CH3
+1 2 3 4 5 6 7 8 9 10
+0.1 0 0 0 0 0 0 0 0
+Makromol
+coverDisplayDate
+openaccessSponsorName
+Tianjin 300071
+RuC12 (PPh3)3
+nitrogen
+E-CDT E
+CDA
+MIBK
+olefins
+Chalk
+Sun H
+Li B
+crotonaldehyde acrylic aldehyde
+Rh
+cyclopentadiene
+mesityl oxide
+Benzene
+methanol
+Ru
+phosphine
+amine
+Pd
+H
+polystyrene
+polyunsaturated cycloolefines
+carbonyl
+Ruthenium
+CDE
+Palladium
+Li
+Rhodium
+1,5,9-cyclododecatriene
+JL 271634 291210 291681 291689 291732 291785 291893
+hexaalkylguanidinium chlorides
+phospho-
+SSDI 1381-5148(94)00045-7 nium polystyrenes
+alumina
+phosphorus oxychloride
+phenols
+thiols
+phosphonium chloride
+O RCOCI
+O RCOOH
+,ooh so so ~ d0 E zo 0 50 100 150 200 250
+Bu4N+,Cl-
+1H
+tetramethylsilane
+bore
+n-Butylamine
+3-chloropropyl trimethoxysilane
+n-butylammonium chloride
+N-butylaminopropyl trimethoxysilane
+N-butylaminopropyl silane
+triethylamine
+Triethylammonium chloride
+pentabutyl propyl trimethoxysilane guanidinium chloride
+K2G+ C
+onium chloride
+quaternary ammonium
+N+
+dry ice
+2ethyl hexanoic acid
+Cl-
+hydrochloric acid
+phosphonium chlorides
+alkylammonium
+Silica-supported guanidinium chloride
+Si-O-Si
+Si-C
+hexaalkylguanidinium chloride trimethoxysilane
+aminobutyl propyl trimethoxysilane
+tetrabutyl chloroamidinium chloride
+trimethoxysilane
+K1G+ K2G+
+phosphorus
+chloroalkyl silica
+secondary amine
+opium chloride
+Et3N
+Toluene reflux + CI ' N Bud \\Bu Bu f Ome Du Bu I j u (Meo)3Si-(CH2)3-N\\ / N\\ 1Tolene
+i-(CH2)3- N N\\ \\C
+silanol
+OH
+chloride anion associated OMe silicabealJ -O -SI -(CHZ)3 -CI OMe
+pseudocarboxylate
+alkylsulfonic or trihalogeno acetic acids
+chlorosulfonyl
+chlorocarbonyl
+fatty acids
+stearic acid
+,2-ethyl hexanoyl anhydride
+.a t so 0 t i m 80 40 20- ~ ,aoT 60 120 ,80 240
+K1G+ O K2G+ Nsk* silica No
+guanidinium chloride
+acyl 100 80-60-: 0 401 201 0 60 720 180
+chlorides
+opium chlorides
+U O
+2-ethyl hexanoyl chloride
+O 0 $ iN+ O SIP+ D
+,oo 60 O 40 20 -T- ' ~ 7T7 r ~ \ " it'-1 0 60 120 180 240 300 360 420
+catalyst 30
+anhydride carbonyl
+carbon
+phorphorus oxychloride [19]
+CI RCOOCOCI
+coverDisplayDate
+openaccessSponsorName
+polystyrenes
+chloroformates
+guanidinium silane
+Chloropropyl trimethoxysilane
+chloropropylated silica
+tributylphosphine
+methylene chloride
+tributylamine
+alkylguanidinium chloride
+silane
+mercury
+RCOOH
+K1G+
+2-ethyl hexanoyl anhydride
+anhydride
+butyl
+thionyl chloride
+Silica-supported hexaalkylguanidinium chlorides
+polystyrene
+hexabutyl guanidinium chloride
+Si
+HMDS
+H
+Cl
+carboxylic acid
+K2G+
+guanidinium
+Ph
+acyl chloride
+2-ethyl hexanoic acid
+chloride
+acyl chlorides
+phosphonium
+ammonium
+hexaalkylguanidinium chloride
+Hg
+nitrogen
+toluene
+phosgene
+carboxylic acids
+Silica
+JL 271634 291210 291681 291689 291732 291785 291893
+a-Amino acid
+COCHNH ~ -,- I (CH2)2 COOJCH2CHz0 m O C9Hi9
+4CONH ~ + (CHa)a C00 CH3
+COCHNH ~ -n
+Wnvelengthlnm-s'c --- 4 l'C--45'C -- 53'C 20 0 m -zo
+HOECHaCHiOi-O-C9Hi9 NON6 COOfCH
+ester
+n-nonylphenoxy hexa(oxyethylene)-1-o1(NON-6)
+nitrogen
+Disomer
+4 E n ~ O 3 v v 4' a 2 E L
+racemic serine
+N NH 2 I H
+Trp E 2 *, o : 1 O A, o : 34 0L E L v a 1 41 C 1 i D-Trp O Q L-Trp
+alanine
+phenylalanine
+hydrogen
+Chloramphenicol
+sodium azide
+201-208 205 + 4 _ ~ E 0 3 v +
+o-Tyr
+L-Tyr 0 1000 2000
+HOCH2CHCOOH NH7
+D,L -
+D b rCD C O qo
+Oc : q ~ Z w ' s \
+H-
+-Nt O
+D O
+N w 1 ro O ' Q 1 0 0 0 0 N O p O 0 s 0 O O 0 O 0 0 z 0 z r 47 a o r o i, 1 ~ v-z o z D
+1 mol m 2 O O D D a ~ I x c x z O z b 3 G
+N O O W w 0 O M 0 w 0. d N C. rn N O n r o b ~ D 2 s
+,oo 90 60 70 O 0 100020003000 4000 5000
+L-Trp aq. 0 O D-Trp 1000 200030004000500016000
+NON-6-PLG 207 N v w N C
+In H20 F C % III- ~ adsorption(D)4
+diethylene glycol dimethylether
+benzene
+n-heptane
+oxyethylene
+Li Dz Lz D3 L3 L4 D4 L5 A
+300 84 370 90 336 0 60 210 50 C
+B(L)
+Diethylene Glycol Dimethyl Ether Benzene n-Heplane
+C : A-B
+poly 4000
+O-(CHZCH20
+C9H19
+JUA D668 C-3037 C l
+C-23
+C-25 c ( ) D() ~ c() l I I l J i i A-7 J 2000 1600 1200 800
+N
+coverDisplayDate
+openaccessSponsorName
+Poly(a-amino acid)s
+phenoxy
+L-Ser
+L-Tyr
+Ser
+D-Trp
+PMLG
+\u03b1-amino acids
+\u03b1-Amino acid
+racemic tryptophan
+L-glutamate
+amino acids
+EDC
+Tyr
+a-amino acids
+quartz
+L-Trp
+poly(l-glutamate)
+tryptophan
+2-s2.0-0029368164
+JL 271634 291210 291681 291689 291732 291785 291893
+divinylbenzene
+chloromethylated polystyrene
+SSDI1381-5148(95)00010-0
+127-136 e s ~ e e _e ~ B A
+~ B AB-A B \ " ~ B B e I > -A-B^- < B A ~ e B-A
+3,5-dibromobenzene boronic acid
+hydrocarbon
+benzyl chloride
+aluminum trichloride
+Lautemann 's red [15]
+( 1-f ).
+palladium
+3,5dibromobenzene boronic acid
+bromine
+aryl bromide
+lithiated hyperbranched polyphenylene
+resorcinol
+3,5-dihydroxybenzoic COOH H OH HO COOH
+COOH COOH Ac OAc Ac0 COOH 4 6 Me3Si0 ~ v ~ OSiMe3 3 COOSiMe3 AcOJ & COOSiMe3 8 H HO
+COOH
+127-136 cOCl Me3Si0 OSIMe3 3 OR RO OR OR RO-ko o O Dn 5R = SiMe3 _5b R = OH 5e R = COCH3
+RO R ~ p O ~ OR Op RO 0 0 O 10 00 O 1 9 R O O O RO t O _ O p Y ' ~ YOR 0 ~ 0 -- ~ 0 00 o ~ o R ~ O _ OR OC ` p RO-'k 0 O O ~ S ~ \\9 C ' OR OR RRO O O R O R
+hyperbranched aromatic polyester
+O O RO ~ \\OR acid
+3,5-bis(trimethylsilyloxy)benzoyl chloride
+trimethylsilyloxy-benzoyl chloride
+hexamethyldisilazane
+trimethylsilyl-protected
+thionyl chloride
+dimethyl formamide
+benzoyl chloride
+trimethylchlorosilane
+1,2-dichlorobenzene
+131 0 R\ " 0 0 OH
+N(MeICOCF3
+DMAP
+diacetoxy
+isophthalic acid
+5-acetoxy
+acetic acid
+O R O R-
+O
+O R -- 5Y O ~ O ~
+O O O R
+O O o -- ~ ~
+O Rb_O O 0 O HOB
+O O O OR k- O 0 R O 01 R R 7a R = COOH 7b R = COO'M+ 7c R = COOSiMe3 0 R 0 o R ~ 0,_1,O ~ O R o O
+Hyperbranched aromatic polyesters 7a-c
+carboxyl-functionalized
+hydroxylterminated polyester
+phenyl ester
+aromatic polyester
+bis(trimethylsilyl) 5-acetoxy-1,3-benzenedicarboxylate
+Hyperbranched aliphatic polyesters
+methyl 4,4-bis(4'hydroxyphenyl)pentanoate
+cobalt acetate
+aliphatic alcohol
+5-(2-hydroxyethoxy)-1,3benzenedicarboxylic acid
+dibutyl tin diacetate
+hydroxyl
+2,2-bis-(hydroxymethyl)propanoic acid
+3,3,7,7-tetra(hydroxymethyl)-5oxa-nonane
+p-toluenesulfonic acid
+dodecanoic acid
+hydroxyls
+6,6-di(allyloxymethyl)3-oxo-4-oxa-l-cis-octene-l-carboxylic acid
+[ > 7 ] vs Mr
+vinyl
+polystyrenes
+3,5-dihydroxybenzoic acid
+5-hydroxy-1,3-benzenedicarboxylic acid
+Chichester
+Rubinstein
+Makromol
+Almaden
+Polyester AB2
+Fr\u00e9chet G.D
+coverDisplayDate
+openaccessSponsorName
+phenol
+THF
+carboxylate
+5-hydroxy-l,3-benzenedicarboxylic acid
+3,5diacetoxybenzoic acid
+trimethylsilyl
+DMF
+phenylsulfone
+chloride
+acetyl
+phenolate
+diazomethane
+allyloxy
+polyether
+Hyperbranched aromatic polyesters
+H
+hyperbranched polyesters
+polyphenylenes
+phenolic
+carboxylic acid
+polystyrene
+polyphenylene
+polyester
+polyesters
+JL 271634 291210 291681 291689 291732 291785 291893
+Cyclic oligo(acetal-ester) 1
+sugar
+monosaccharides
+bicyclic acetals
+bicyclic oxalactam
+bicyclic lactones
+3,4-dihydro-2H-pyran-2-carbaldehyde
+3,4dihydro-2H-pyran-2-carboxylic acid
+3,4-dihydro-2,5-dimethyl-2H-pyran-2carbaldehyde
+methyl
+3,4dihydropyran
+hexopyranans
+Cu(1I)
+pinene-maleic acid
+PIN-MA-HMDA
+ethyl vinyl ethermaleic acid
+EtEV-MA-HMDA
+EtVE-MA-DADPM
+ethyl vinyl ether-maleic acidvinyl acetate
+EtEV-MA-VA-DADPM
+carboxylate
+silica
+column DB-1701
+methacrolein
+hydroquinone
+CH = C-
+( 3,4-Dihydro-2,5-dimethyl-2Hpyran-2 yl ) methyl 3, 4-dihydro-2,5-dimethyl-2H pyran 2-carboxylate
+aluminum isopropoxide
+benzene
+CHZ-O-
+-CHZ-O-
+CH3-C-
+isopropanol-KOH
+-C = C
+-C-O
+4-Dimethyl-6
+octa-7-one
+1,4-Dimethyl-6,8-dioxabicyclo-[3,2,1]-octa-7-
+-O-CH-O-
+Cyclic acetal-ester
+MgS04
+-O-CH-O
+-0-CH-0-CO-
+Ar
+-O-C-O-CO
+-O-C-O-
+-O-C-C
+-CH-C
+CHCl3
+Co
+Maleic anhydride
+ethyl vinyl ether-malefic anhydride
+vinyl acetate
+hexamethylene- 37 1,6-diamine
+Mn
+Cu
+n-hexane
+3,4-dihydro-2,5dimethyl-2H-pyran-2-carbaldehyde
+bromine
+methacrolein dimer No
+PIN-MA-HMDA-Mn(II)
+EtVE-MA-HMDA-Co(II)
+EtVE-MA-VA-DADPM-Cu(II)
+CHZCH2
+-C-CH,CHZ COOH OCHO B
+OH
+n3 OH CH, 0
+C-CH2CH2
+14-member 1165 1125
+EtVE-MA-VA-Cu(II) 20 301 594 604
+14-member 994 1087
+2,5-hexadione
+1HNMRspectra
+formyl ester
+C-CH3 CHO I I CH l1o CH3C o ~ r CH2 H
+O GH II CH
+CDCl3
+CHO
+C-CH2CHrCH3
+carbonyl
+acetic acid
+7-acetoxy2,8-dioxabicyclo[3.2.1]octane
+hemiacetal
+3,4-dihydro2,5-dimethyl-2H-pyran-2-carboxylic acid
+hemiacetal-ester 3
+carboxylic
+3 to vinyl-ether
+cyclic oligo(ester-acetals)
+vinyl-ester
+hexandione
+carbon monoxide
+poly (PIN-MA)Mn(II)
+acetoxy
+3,4-dihydro-2,5-dimethyl-2H-pyran-2-yl
+oligo(acetal-esters)
+28-membered macrocyclic oligo(acetal-esters)
+CH
+-CH3
+nonactin
+macrotetrolide
+potassium
+HOOC
+I.CH3
+3,4-dihydro-2,5-dimethyl2H-pyran-2-carbaldehyde
+2-formyl-2-methyl-5-oxo-hexanoate
+14-, 21- and 28-membered macrocyclic oligo(acetal-esters)
+decarbonyl- J. MaRitka
+COOH l HO
+-COOH
+hexan-2,5-dione
+3,4-dihydro-2,5-dimethyl-2H-pyran-2- 14 (1981)1180. carbaldehyde
+Makromol
+[4] J. Masli6ska-Solich
+oligo(acetal-ester)
+1-s2.0-138151489500005Z
+coverDisplayDate
+openaccessSponsorName
+3,4-dihydro-2,5-dimethyl-2H-pyran-2carboxylic acid
+oligosaccharides
+tetrahydropyran
+vinyl ether
+1,6-hexamethylenediamine
+4,4'-diaminodiphenylmethane
+1H
+BS-587A
+THF
+CH = C-O
+( -C = )
+-C-O-
+C = O
+carboxylic acid
+COOH
+13C
+C-O-
+-CHZ-
+hexane
+2-formyl-2-methyl-5-oxo-hexanoic acid
+acetal
+formyl
+H
+acrolein dimer
+cyclic oligo(acetal-esters)
+oxygen
+macrolides
+O
+aldehyde
+hydroperoxide
+Acrolein
+vinyl-ether
+cyclic oligo(acetal-esters) 5 ( 14-, 21- and 28-membered rings )
+Maleic acid
+monoester
+1H-NMR
+benzoic acid
+ester
+KOH
+3,4-dihydro-2,5dimethyl-2H-pyran-2 carboxylic acid
+hydroxyl
+Mn(II)
+Co(II)
+Cu(II)
+3,4-dihydro-2,5-dimethyl-2H-pyran-2-carbaldehyde
+CH3
+methacrolein dimer
+JL 271634 291210 291681 291689 291732 291785 291893
+Issue 1 2 1 14 1 14 19951001
+2dacc05b2a3ca92255ed5a6d2a9480f6 / main_1.png main_1.png png 64242 849 656 IMAGE-WEB-PDF
+copper(11)
+copper
+NH
+P N CHZH ~ o'\\H N O OH NH O
+P
+-O O N \\ ~ CH Z o'\\N O H
+H O OH NH 2 O = P-O O N CH Z a ~ N O H
+H O OH
+sec- O NH Z .CHZ-O H I I H O_ O H R
+N ~ H ,N_ H
+copper(II) oxide
+polycytidylic acid sodium
+nucleotide cyclic monophosphate
+sodium hydroxide
+potassium hydrogenphthalate
+[Cu(11)]
+[Cu(II)]Metal-to
+Poly(C)-Cu(11)
+PH3I b D
+-H
+cyclic nucleotide
+phosphate
+.X i 2,5 0,0 0,7 0,2 0.3 0,4 0,5
+pos- 0o 7000 6000 5000 4000 3000 2000 ,000 OL 240 2 ( a ) x,0' 6 5 4 3 2 1-250 260 270 280
+-tl -2E 290 300 310 320 3 -3 240 250 260 270 260 290 300 310 320
+[ LHt ~ z ]
+1-14 100 3v 80 c 60 40 20 3 o / 0 ,a, 3 3,5 4 2 n000 00 000 \\ 1 4,5 5 5,5 6 6,5 pH
+N
+cCMP-H
+cytosine
+polyuridylic acid
+polyinosinic acid [6]
+Poly(C)-Cu(II)
+11 64000 3000 2000 looo 0 C 00 0 0 0 0 0 0 3 2 0 0 o
+nm ) 0 0 0 0 0 300 0 0 c o 0 ( bl 0 0 240 250 260 270 260 290
+poly(C)Cu(II)
+c 0 60 v 40 d 20 0 o_ C
+Cu
+Cu 2+
+(Cu-L)2+
+Cu-L ) 21 (Kapp)comp-[CUZ+]IL ] _ [ ( Cu-L)2+1 ( [ CUZ+IT-[ ( CU-L)z+])[I-]
+(logKapp)comp
+1-14 6 5 a E x 4 toL > XX x x 0 0 3i 2 13 0,2 0,25 0,3 0,35 0,4 0,45 0,5
+KmP
+deprotonated
+PB93-1055
+Bruckenstein
+Cid E.
+coverDisplayDate
+openaccessSponsorName
+polycytidylic acid E.
+(C)H+-( C )
+H+
+sodium chloride
+hydrochloric acid
+copper(II) chloride
+cCMP
+O
+Ser
+Barone
+nucleic acids
+hydrogen
+nitrogen
+poly(C)-H
+Copper(II)
+Cu(II)
+Polycytidylic acid
+JL 271634 291210 291681 291689 291732 291785 291893
+2000-01-27 2000-01-27 2010-10-05T20
+DURHAM 1963 635 L ORGSYNTHCOLL
+png 57442 849 656 IMAGE-WEB-PDF
+chloromethylated polystyrene
+ether
+amino
+trifluoromethanesulfonic acid
+polymeric keto ester
+chloride of a monoalkyl ester
+polymeric oximes 4 or thioketals
+nitrogen
+sulfur
+C = O carbonyl
+hydroxamic acid
+C = O ester
+P O p O O P
+NH20H OH O Pyridine P o OR 4 o O
+XE-305 A
+XAD-2 B
+acid chloride of its monoethyl ester
+monomethyl ester
+dithioketal
+aromatic styrene
+monoester
+monomethyl ester of azelaic acid
+tosylhydrazone
+tosylhydrazones
+catechol-borane
+< 74 < 0 R 2 2 R = CH2CH3
+R = CH2CH3
+THF ~ P ~ C-\\ OH 8 S
+2 O 6 5 2 O P 0 8 7 4 3 4,5,6 3,' 3 4 6 50 4 3 2 PPM 1 O 4 3 ~ 1 P 6 5 60 50' 1 40 30 I
+Cl C2 C3 C4 CS C66 1 % DVB 11 16 23 21 22 35 2 % DVB 19 29 30-`-` 38 XE-305 18 27 28
+methine
+ethyl
+CHZCH3
+methyl
+carbons
+ZNH TSCI o OH RCOOH H+ OCOR
+polymeric alcohol 8 ( Scheme 4 )
+p-toluenesulfonyl chloride
+diisopropylamine
+( 2hydroxyethyl ) polystyrene
+tosyloxy
+sodium imidazolide
+DMF
+amines
+esters
+acetate
+KOH
+methyglycol
+carbonyl ester
+C = O carboxylic
+ester 7 or PO o OTS RZNH PyridineNC0j PV nRx
+carboxylic
+tosyl chloride
+carboxamide
+NH20H
+hydroxamic acid 13
+Monoalkyl esters of alkanedioic acids
+O KOH P methylglyrnV ~ ret u x OH 12 TsCI R2NH O P NRz
+CHNS-O
+divinylbenzene
+styryl
+monoethyl ester of adipic acid
+HCl
+MeOH ( 3 x )
+CH2Cl2
+(CloHlo)o.ol(C8H8)o.7l(C18H2402S2)o.28
+Et20
+polymeric esters 7 The tosylhydrazone
+Sodium acetate trihydrate
+CH2 C12
+(C,OHIO)o.ol(C8H8)o.7l(C16H2202)o.28
+polymeric alcohols 8 A
+HCl 3 N ( 3 x )
+HCl 6 N
+(C1oHlo)o.ol(C8H8)o.7l(C14H200)o.28
+Chichester
+Makromol
+E-12080 Castell\u00f3n
+Brown M.R
+S\u00e1nchez-Ferrando
+coverDisplayDate
+openaccessSponsorName
+benzylic
+amide
+NaOH
+pyridine
+ethanedithiol
+BF3
+S
+keto ester
+oxime
+tosylhydrazine
+LiAlH4
+chloroform
+alcohol
+R = Me
+13C
+methylenic
+dimethylene
+piperazine
+carboxylic acid
+AcOH
+secondary amine
+thioketal
+THF
+H20
+CH202
+H
+Ser
+Tam
+alkyl
+monoalkyl ester
+polystyrenes
+carbonyl
+azelaic acid
+keto esters
+keto
+catecholborane
+CH3
+methylene
+XE-305
+adipic acid
+polymer 2
+carbon
+acetone
+argon
+EtOH
+KBr
+R = Et
+dioxane
+MeOH
+alkanedioic acid
+polystyrene-divinylbenzene
+acid chloride
+ester
+polystyrene
+JL 271634 291210 291681 291689 291732 291785 291893
+74e31ed0a24496e94d916632551dc0af / main_1.png main_1.png png 56241 849 656 IMAGE-WEB-PDF
+Mo(Vl)
+Mo(VI) naphthenates
+olefins
+hydroperoxides
+[3,4] : 0 0 II f -- r II ~ CH2CH_C-N N-CCH_CH_
+-N-CH = CH = N- CH
+COON COOH x *
+amino
+2,6-pyridine dicarboxylic acid
+( CH, )nCOOH 68 E. Tempesti
+polymeric carboxylic acids
+bis-thiols
+2,2-bis(acrylamido)acetic acid
+: 0 0 II II
+(CH.,),y
+CH(OH)-CH(OH)
+amido
+N
+2,2'ethanedithiol
+carboxylic acids
+dioxane
+Mo
+2,2'-ethanedithiol
+vinyl
+CHC-NH-CH-NH-CCH = CH
+COOH
+CH
+HOOC COOH
+Na2Mo04-HCl
+hydrochloric acid
+molybdenyl
+oxygen
+AIBN
+N-vinylpyrroliJinonc
+RESIN R ?
+OH
+C-N
+carbonyl
+CONH-CH(COOH)-NHCO
+CONH-CHZ-NHCO
+H202
+Mo(VI) dioxo-complexes
+v(Mo = O ) v(Mo = O )
+R1 1616 952 913 R2 1636 954 911
+O-O
+3 71 O 'C \\O n N
+- Mote O
+O O 7O O ~ C 11 O N-Mo v v\\ O O O Scheme
+peroxo-Mo(VI)
+catalyst-hydroperoxide
+t- \\J 41X1() 3200 2400 20011 1600 1200 SW n ~ i I
+ROH,epoz MROH
+McL
+epoxy = metal-alcohol
+metalepoxide
+olefin
+epoxy
+hydroperoxide
+Mo(VI) peroxo-complexes
+O ~ o I-'O ~ O v(C = O ) v(Mo = O ) v(O-O) v
+111 1631 980 913 628 519 R2 1636 981 911 626 515
+ethylbenzene
+amino-groups
+poly(thioetheramidoacids)
+amido-groups
+Bressanone
+coverDisplayDate
+openaccessSponsorName
+tertiary amino
+2,2'-bis(acrylamido)acetic acid
+N-vinylpirrolidinone
+molybdic acid
+C = O
+Dioxo- and peroxo-Mo(VI) complexes
+O
+ROH
+alcohol
+epoxide
+cyclohexene
+t-butyl hydroperoxide
+carboxylic
+carboxy
+Makromol
+poly(thioether-amido-acid)
+Molybdenum
+Mo(VI)
+JL 271634 291210 291681 291689 291732 291785 291893
+SAAM
+sulfonic acid
+-C-O-
+silica silanols
+butylpyrocatechol
+hydroquinone
+silica Silica
+triethylaluminum
+mesitylene
+sulfur
+fluorhydric acid
+107 100 80 Fn- 0 4oi 20 0 0 20 eoo 3 0 40 60 Time
+Ga goo 0 0
+O
+dm(H20)
+dSiOH
+MM(Hz0)
+THF
+acrylic
+vinyl benzyl chloride
+azo
+aminopropyltriethoxysilane
+azobiscyanovaleric acid
+trimethoxypropylmethacrylate
+thiopropyltriethoxysilane
+thiols
+alkoxysilylterminated polystyrene
+intra-alkoxy
+so 40 20 0 0 60 120 180 240 300 360 420 480
+Vp
+noSiOH
+B1 B2 B3 B4 B5 B6 DP 30 100 150 270 405 1440
+SB3 SB4 IP 40 160 360 465
+Fo
+,so-... 140 m o ; o ,20 ,oo eo so 40 20 0 0 20 40 60 80 ,00 120 140 160 180 200 DP
+- ,o-f- e- 4 2 o -i 80 ,oo 0 20 40 so 120 140 1so 160 200 DP
+mono ( MMDES )
+methoxysilane
+trimethoxy
+MM23Fgr MM23pr
+MP29Fgr MP29pr + HF MP30pr MP30Fgr MP30pr + HF 5200 3400 Bozo 57300 87000 920 910 llso 12900 5400 15300
+MM23pr
+5 000 d ' T-_A o M
+( 3 ) 1 a I 0_ 1 0' lo ' lo ' lo ' zooooo d n 150000 I 5 00000 0000 MM 21
+silica ` MP350'
+silica MP350 MP26 S,p
+alkoxy-terminated polystyrene
+105-118 1000000 E 00000 N N A _ ` A 10000 O d E
+O C O t ; 4 0 m d 'W 29 E ( b ) 'J 0 10 20 30 40 50 60 70 80
+Et-O-Si-(Me)3
+(Me)3-Si-OEt
+(Me)3-Si-O-Si(Me)3
+Me-Si-(OEt)3
+4 3 8 9
+SH ( 2 ) M'O / \\OMe Me Si
+SH Et / \\Et ( 5 ) ,POLYSTYRENE
+S 11-11 POLYSTYRENE Si*-OH ( 8 ) 0 POLYSTYRENE
+Si\ " ~ Me0 / \\OMe
+29Si
+Me-Si-(OEt)3-~ (Me)(OEt)-Si-(-OSi*)2
+methanol
+methyl
+Met
+atactic polystyrene
+Si-Me vibra- q_ d c ^ ~ Si^ S b ~ n e 0 a f lL / f ~ ~ d b c e ? ~ T ' TTY T i ~ 5 4 3 2 1 0 PPM
+I-CH2-CH31
+1-0-CH2
+I-6i-CH3
+Raglione T.R
+coverDisplayDate
+openaccessSponsorName
+Silica grafted polystyrene
+alkoxysilyl
+Si-O-Si
+thioalkoxysilane
+SiOH
+argon
+carbon
+silicon
+alkoxysilanes
+Mn
+Si'-OH
+alkoxysilane
+Si-O-C
+Macromol
+Ser
+Silanes
+Trialkoxy silanes
+styrene
+AIBN
+alkoxyterminated polystyrene
+monoalkoxy
+siloxane
+mercury
+1H
+thiol
+silane
+alkoxy
+silanol
+TAS
+toluene
+MAS
+Si
+polystyrene
+silanols
+silica
+JL 271634 291210 291681 291689 291732 291785 291893
+2000-01-27 2000-01-27 2010-10-05T20
+77d0731521147c6cfb3cfc4ba40dc5af / main_1.png main_1.png png 59991 849 656 IMAGE-WEB-PDF
+Frdchet 's aromatic-ether
+SSDI1381-5148(95)00013-5
+( 1995 ) 137-144 9 ' ~ r 0 10 qq_ 0 0 -q > c ~ 0 0 0 ~ > Q-\ " 4 0 0 o coi-u c ~ u ' 0
+5-ethyl-S-propylundecane
+aromatic-ether
+diethyl (diethoxymethyl)malonate
+sodium ethoxide
+ethanol
+aldol
+~ O, o G ~ 0 o 04 0 0 0 0,,jb,Ot ~ 0 o ~ ~ ~, ~ ~ o 6 \ " o ' 0 0 0 P-0 0, ~ Y 0 o o ~ 3 ~ 0 0 -- 0 ~ o
+-q 0 0 b 0 o ; 0o O b '__0 d ob
+dendrimer 2. o CH20PG3 CH20PG3 I ~ ~ i 52 C
+PG20CH2* ~ C 2 Br Br CH20PG3 CH20PG3 i C ~ ~ ~ C CHpOH PG20CH2\ " 0CH20PGPG20CH2\ " f ~
+CH20PG1 Br Br Di Scheme
+OEt
+CH(OEt)2 O- OEt
+EtOH
+Ne 50 O OEt t 3 COZEt HOCHZtCH(OEt)2 MEMCI DIPEA COZEt CHZCIZ CH20TBDMS MEMOCH2+CH(OEt)2 NaH
+potassium carbonate
+formaldehyde
+DMF
+MEM chloride
+diisopropylethylamine
+ester
+lithium aluminum hydride
+diethyl ether furnished diol 7
+hydroxy
+bistert-butyldimethylsilylether
+ZnBr2
+TBDMSchloride
+racemic monosilylated alcohol
+_KZco3 parafortnaldehyde DMF C02Et MEMOC HZ-t -- C H(OEt)2 C ~ O2Et LiAIH4 diethyl ether CH20H MEMOCHZtCH(OEt)2 CI HzOH
+europium(III)
+tris-[3(heptafluorohydroxymethylene)-n-camphorato]
+monosilylated ( racemic ) alcohol
+CH20TBDMS MEMOCH2 --1-- CH(OEt)2 NaH
+[G1]-Br CH20H THF, e C H20[G-2] MEMOC H2-t-C H(OEt)2 NaH
+[G-2]-Br CH20[G-1] IHF
+pTsOH.HzO acetone
+NaBH4 1,4oxane CH20[G-2] MEMOCHz -- ~ ICH20H [G-3]-Br CH20[G-1] THF
+CH20[G-2] [G-0]OC H2+C H20[G-3] NaH
+[GO]-Br C H20[G-1 ] CH20[G-2] NaH
+[G-4]OCH2 ~ CH20[G-3] C ~ H20[G-1 ] 2 Scheme 3
+tetrabutylammonium fluoride
+Repeti- 141 CH20TBDMS MEMOCH2-j-CH(OEt)2 C ~ H20[G-1 ] 9 BuyNF THF CH20H MEMOCH2-f-CH(OEt)2 C ~ H20[G-1 ] 10 C H20[G-2] MEMOC H2 ~ C H20[G-3] C ~ H20[G-1] 13 8-Chlorocatecholborane CHZCIZ C H20[G-2] HOC HZ ~ C H20[G-3] C ~ H20[G-1 ]
+[G-2]-Br
+acetal
+sodium borohydride
+aldehyde
+chlorocatecholborane
+13C
+C6DSN
+pentaerythrityl
+hydrogen
+tertbutylmethyl ether
+acetonitrile
+cellulose triacetate
+(-)-TAPA
+(R)-DNBPG
+(+)-poly(triphenylmethylmethacrylate)
+[G4]-Br
+N
+coverDisplayDate
+openaccessSponsorName
+5-ethyl-5-propylundecane
+diethyl (ethoxymethylene)malonate
+diol
+sodium hydride
+H
+[G-1]-Br
+[G-4]-Br
+p-toluenesulfonic acid monohydrate
+acetone
+[G-0]-Br
+benzyl bromide
+silica
+C6D6
+benzylic
+dichloromethane
+Rico
+Oh
+Reno
+Fr\u00e9chet 's aromatic-ether
+hydroxyl
+alcohol
+THF
+ether
+1H
+pentaerythritol
+JL 271634 291210 291681 291689 291732 291785 291893
+5dc8dd3814bdedc9e663d4f1ad526560 / main_1.png main_1.png png 68698 849 656 IMAGE-WEB-PDF
+lI
+chelating agents
+aluminium oxide
+silica
+polystyrene
+poly(maleic anhydride)
+polymethylmethacrylate
+poly(ethyleneglycoldimethacrylate-hydroxyethylmethacrylate)
+alumina
+Hydroxyethylmethacrylate
+ethyl alcohol
+NaOH
+methanol
+KBr
+graphite
+( Co -C ) ~ V m
+CO
+dry poly(EGDMA-HEMA)
+S = O
+aromatic C-N
+N-H
+S03H
+OH QN / '111 NO H H
+S03 H 5 4 n 3 2
+amino
+hydroxyl
+C- N
+amines
+Aliphatic amines
+amine
+aromatic amines
+poly(EGDMAHEMA)
+Cadmium Gone
+zinc
+6 4 b 3 2 b m U 0.- Alkali Blue Attached Poly(EGDMA-HEMA) Poly(EGDMA
+hydroxide
+carbonate
+Alkali Blue Attached Poly(EGDMA
+-S03H
+Cu 2+
+Pb2+
+He+
+Zn2+
+[6] S
+Chichester
+4 0 m 3 rr w U 2 0 B
+1 2 3 4 Cycle No
+Poly(EGDMA-HEMA) Alkali Blue 613
+coverDisplayDate
+openaccessSponsorName
+Alkali Blue 613
+nitrogen
+lanthanum
+alginic acid
+Alkali Blue
+H
+EGDMA
+BPO
+Alkali Blue 6B attached poly(EGDMA-HEMA)
+Carbon
+Toluene
+Poly(vinylalcohol)
+cadmium(Il)
+cadmium
+Alkali Blue 6B
+poly(EGDMA-HEMA)
+cadmium(II)
