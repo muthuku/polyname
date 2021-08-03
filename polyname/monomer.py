@@ -9,7 +9,7 @@ import cirpy
 
 
 
-'''data = pd.read_csv('210512_search_criteria_processed_html6423f3912605d57a99a1bf597fc3dc0fcfd3d387f812b76972b6788961f39554.csv',index_col=0)
+'''data= pd.read_csv('210512_search_criteria_processed_html6423f3912605d57a99a1bf597fc3dc0fcfd3d387f812b76972b6788961f39554.csv',index_col=0)
 print(data)
 data2 = pd.read_table('polymer_extract_still.csv')
 print(data2)
