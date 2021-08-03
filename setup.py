@@ -19,10 +19,22 @@ INSTALL_REQUIRES = [
       'numpy',
       'pandas',
       'itertools',
-      'csv'
-      'pubchempy'
+      'csv',
+      'pubchempy',
       'cirpy'
 ]
+
+CLASSIFIERS = [
+      'Programming Language :: Python :: 3',
+      'Programming Language :: Python :: 3.4',
+      'Programming Language :: Python :: 3.5',
+      'Programming Language :: Python :: 3.6',
+      'Programming Language :: Python :: 3.7',
+      'Programming Language :: Python :: 3.8',
+]
+PROJECT_URLS = {
+      'Source':https://github.com/muthuku/polyname
+}
 
 setup(name=PACKAGE_NAME,
       version=VERSION,
@@ -33,6 +45,8 @@ setup(name=PACKAGE_NAME,
       license=LICENSE,
       author_email=AUTHOR_EMAIL,
       url=URL,
+      classifiers = CLASSIFIERS
       install_requires=INSTALL_REQUIRES,
       packages=find_packages()
+      project_urls = PROJECT_URLS
       )
