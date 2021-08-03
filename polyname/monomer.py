@@ -18,9 +18,14 @@ dfnames2 = pd.DataFrame(data2.polymername.unique(),columns=['polyname'])
 
 print(dfnames)
 print(dfnames2)'''
+def lowercase(anylist):
+    final_poly = []
+    for string in anylist:
+        string1 = string.capitalize()
+        final_poly.append(string1)
+    return final_poly
 
-import pubchempy as pcp
-import cirpy
+
 def strip_poly(row,stripstrings):
     s = row.polyname
     new_list = []
