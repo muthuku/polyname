@@ -21,7 +21,7 @@ print(dfnames2)'''
 def lowercase(anylist):
     final_poly = []
     for string in anylist:
-        string1 = string.capitalize()
+        string1 = string.lower()
         final_poly.append(string1)
     return final_poly
 
