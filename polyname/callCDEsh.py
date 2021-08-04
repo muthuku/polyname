@@ -3,7 +3,7 @@
 import subprocess
 
 def command_line(file):
-	subprocess.call("cde.sh {}".format(file), shell = True)
+	subprocess.call("polyname/cde.sh {}".format(file), shell = True)
 
 #file = "/Users/pmuthuku/Desktop/test_articles_html/example2.json"
 #command_line(file)
