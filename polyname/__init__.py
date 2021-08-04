@@ -11,6 +11,6 @@ from .cde_function import cde_func
 from .cde_function import uppercase
 from .combine_names import combine_name_cde
 from .combine_names import remove_duplicate_cde
-from .callCDEsh import command_line_cde
+from .callCDEsh import command_line
 
 
