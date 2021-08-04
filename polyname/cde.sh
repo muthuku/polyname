@@ -11,6 +11,7 @@ done < $file
 cat $file
 
 cde extract $file -o article14.json
+
 #cde tokenize sentences $file 
 #cde tokenize words $file
 
