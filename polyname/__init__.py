@@ -7,7 +7,7 @@ from .monomer import strip_poly
 from .monomer import get_pubchem_smiles
 from .monomer import get_cirpy_smiles
 from .monomer import lowercase
-from .cde_function import cde_function
+from .cde_function import cde_func
 from .cde_function import uppercase
 
 
