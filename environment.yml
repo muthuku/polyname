@@ -2,6 +2,7 @@ name: polyname
 channels:
   - conda-forge
   - defaults
+  - rdkit
 dependencies:
   - python=3.6
   - pandas
@@ -21,4 +22,14 @@ dependencies:
   - json
   - glob
   - pip:
-    - tqdm
+    - csv
+    - json
+    - os
+    - glob
+    - re
+    - sys
+    - subprocess
+    - string
+    - itertools
+
+
