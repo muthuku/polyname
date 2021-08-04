@@ -26,11 +26,12 @@ INSTALL_REQUIRES = [
       'sys',
       'os',
       're',
-      'string'
+      'string',
       'nltk'
-      'chemdataextractor'
-      'subprocess'
-      'json'
+      'chemdataextractor',
+      'subprocess',
+      'json',
+      'glob'
 
 ]
 

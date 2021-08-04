@@ -14,3 +14,4 @@ nltk
 chemdataextractor
 subprocess
 json
+glob
