@@ -21,7 +21,17 @@ INSTALL_REQUIRES = [
       'itertools',
       'csv',
       'pubchempy',
-      'cirpy'
+      'cirpy',
+      'itertools',
+      'sys',
+      'os',
+      're',
+      'string'
+      'nltk'
+      'chemdataextractor'
+      'subprocess'
+      'json'
+
 ]
 
 CLASSIFIERS = [

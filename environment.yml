@@ -11,5 +11,13 @@ dependencies:
   - csv
   - itertools
   - pip
+  - sys
+  - os
+  - re
+  - string
+  - nltk
+  - chemdataextractor
+  - subprocess
+  - json
   - pip:
     - tqdm

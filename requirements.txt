@@ -4,3 +4,13 @@ itertools
 csv
 pubchempy
 cirpy
+csv
+pip
+sys
+os
+re
+string
+nltk
+chemdataextractor
+subprocess
+json
