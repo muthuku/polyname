@@ -1,4 +1,3 @@
-Isolated_poly_names
 Poly(Llysine)
 Poly(pentapeptide)
 Poly(Lglutamate)
