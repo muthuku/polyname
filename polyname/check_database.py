@@ -64,26 +64,7 @@ def search_names(file, final_names):
 			search_names.append(item)
 	return search_names
 
-def get_cirpy_polymer_names(polymer_name):
-    polymer_names = []
-    name = polymer_name.replace("(", "")
-    name = polymer_name.replace(")", "")
-    iupac_name = cirpy.resolve(name, 'iupac_name')
-    if iupac_name is None:
-    	polymer_names.append("None")
-    else:
-    	polymer_names.append(name)
-    return polymer_names
-'''
-def get_cirpy_polymer_smiles(polymer_name):
-    polymer_smiles = []
-    smile = cirpy.resolve(polymer_name, 'smiles')
-    if smile is None:
-    	polymer_smiles.append("None")
-    else:
-    	polymer_smiles.append(smile)
-    return polymer_smiles
-#example to run the script'''
+#example to run the script
 '''files_path = '/Users/pmuthuku/Documents/python_scripts_suli/workingscripts/polyname_scripts/polymername_final.txt'
 data_base = "polyname_smiles_test.csv"
 
