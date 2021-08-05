@@ -99,7 +99,7 @@ def get_cirpy_names(monomer_name):
         mname = name.replace("(", "")
         mname = mname.replace(")", "")
         names = cirpy.resolve(mname, 'iupac_name')
-        if smiles is None:
+        if names is None:
             cirpy_names.append("None")
         else:
             cirpy_names.append(names)
