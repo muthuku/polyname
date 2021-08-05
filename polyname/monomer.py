@@ -98,11 +98,11 @@ def get_cirpy_names(monomer_name):
     for name in monomer_name:
         mname = name.replace("(", "")
         mname = mname.replace(")", "")
-        names = cirpy.resolve(mname, 'names')
-        if names is None:
+        name = cirpy.resolve(mname, 'iupac_name')
+        if name is None:
             cirpy_names.append("None")
         else:
-            cirpy_names.append(names)
+            cirpy_names.append(name)
     return cirpy_names
 
 '''#dfnames['polyname_1'] = dfnames.apply(lambda row: strip_poly(row,stripstrings),axis=1)
