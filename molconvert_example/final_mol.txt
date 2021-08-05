@@ -1,0 +1,57 @@
+propane-1,2,3-triol
+silanedione
+carboxylic acid
+polystyrene
+azanium
+phosphanium
+carbonyl dichloride
+sulfurooyl dichloride
+phosphoroyl trichloride
+phenol
+thiol
+alkylcarbonyl group
+carbonochloridate
+phosphanium chloride
+2-ethylhexanoic acid
+tetramethylsilane
+(diaminomethylidene)azanium chloride
+butan-1-amine
+(3-chloropropyl)trimethoxysilane
+benzene
+butan-1-aminium chloride
+butyl[3-(trimethoxysilyl)propyl]amine
+butyl(3-silylpropyl)amine
+triethylamine
+toluene
+triethylazanium chloride
+carbamimidoyl(silyl)azanium
+trimethoxy(propyl)silane
+(1R,3aS,3bR,5aS,8Z,9aR,9bS,11aR)-1-hydroxy-8-(hydroxymethylidene)-1,9a,11a-trimethyl-hexadecahydro-1H-cyclopenta[a]phenanthren-7-one
+(diaminomethylidene)azanium
+tributylphosphane
+dichloromethane
+tributylamine
+hydrogen chloride
+(alkylimino)(amino)methanaminium chloride
+alkylaminium
+silane
+chlorotrimethoxysilane
+6-amino-2-methylhexyl group
+trimethoxysilane
+chloroalkyl group
+disubstituted amine
+ammonia
+phosphane
+bis(trimethylsilyl)amine
+silanol
+acetic acid trihalogen
+chlorosulfonyl group
+chlorocarbonyl group
+fatty acid
+octadecanoic acid
+hexanal
+2-ethylhexanoyl chloride
+2-ethylhexanal
+formyl group
+butyl group
+hypochlorous acid

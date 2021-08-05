@@ -12,8 +12,24 @@ import csv
 
 
 
-#script to check database-Inputs :polymers input file and database as input
+
 def check_database(file,database):
+
+	'''function that checks the textfile of polymer names found in articles and sees if it is in existing database
+
+	inputs:
+
+		file:
+				description: a file with all polymer names 
+				file format: textfile(.TXT)
+				example : 'polyname_scripts/polymername_final.txt'
+		database:
+				description: a file that contains all existing polymer names and monomer strings
+				file format: CSV file
+				example: 'polyname_smiles_test.csv'
+
+	Returns: a names list and smiles list'''
+
 	#open the polymer names file and read lines and make a list 
 	with open(file) as f:
 		content = f.readlines()
@@ -34,8 +50,23 @@ def check_database(file,database):
 	return names,smiles
 
 
-#script to remove duplicates, Inputs: a list of names and smiles
 def remove_duplicates(names,smiles):
+
+	''' a function that removes duplicates from the original list of names and smiles extracted from database
+	inputs:
+
+		names:
+				description: a list of names outputted from check_database
+				type: list
+				example: [poly(butadiene), poly(vinylalcohol),poly(styrene)]
+
+		smiles:
+				description: a list of smiles outputted from check_database
+				type: list
+				example:[OC(=O)C=CC(=O)O, OC(=O)CCC(O)=O, OCCCO, C=Cc1ccccc1]
+
+		returns: two new lists with final names and final smiles'''
+
 	#initialize names and smiles list final
 	final_names = []
 	final_smiles = []
@@ -50,8 +81,24 @@ def remove_duplicates(names,smiles):
 	return final_names,final_smiles
 
 
-#outputs names that weren't in database, Inputs: polymer names file and final names found in database
+
 def search_names(file, final_names):
+
+	'''a function that outputs names not found in the database
+	inputs:
+
+		file:
+			description: a file with all polymer names 
+			file format: textfile(.TXT)
+			example : 'polyname_scripts/polymername_final.txt'
+
+		final_names:
+			description: a list of names outputted from check_database or remove_duplicates
+			type: list
+			example: [poly(butadiene), poly(vinylalcohol),poly(styrene)]
+
+		returns: list'''
+		
 	#open polymer names file and make a list
 	with open(file) as f:
 		content = f.readlines()

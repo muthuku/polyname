@@ -19,6 +19,15 @@ dfnames2 = pd.DataFrame(data2.polymername.unique(),columns=['polyname'])
 print(dfnames)
 print(dfnames2)'''
 def lowercase(anylist):
+
+    '''a function that takes the list of polymers and makes it lowercase
+        input:
+            anylist:
+                description: a list of polymer names
+                type: list
+                example: [Poly(butadiene), Poly(vinyl alcohol)]
+        returns a list of polymers'''
+
     final_poly = []
     for string in anylist:
         string1 = string.lower()
@@ -27,6 +36,26 @@ def lowercase(anylist):
 
 
 def strip_poly(row,stripstrings):
+
+    '''goes through each row of a dataframe and strips it down to just monomer names
+    input:
+        row:
+            description: polymer name
+            type: string
+            example" poly(butadiene)
+        stripstrings:
+            description: all the different poly names to strip away
+            type: list of things to strip
+            example:  [
+               ['poly(',')'],
+               ['poly[(',')]'],
+               ['poly[',']'],
+               ['poly{','}'],
+               ['poly-','']
+               ]
+
+    return: monomer names'''
+
     s = row.polyname
     new_list = []
     for stripstring in stripstrings:
@@ -56,6 +85,15 @@ stripstrings = [
                ]
 
 def get_pubchem_smiles(monomer_name):
+
+    ''' function that gives the SMILE string for each polymer name using Pubchem API
+    input:
+        monomer_name:
+                description: monomer name 
+                type: string
+                example: butadiene
+    return: a Smile string '''
+
     smile_list = []
     for name in monomer_name:
         mname = name.replace("(", "")
@@ -69,6 +107,15 @@ def get_pubchem_smiles(monomer_name):
     return smile_list
 
 def get_pubchem_names(monomer_name):
+
+        ''' function that gives the iupac name for each polymer name using Pubchem API
+    input:
+        monomer_name:
+                description: monomer name 
+                type: string
+                example: butadiene
+    return: a monomer name '''
+
     names_list = []
     for name in monomer_name:
         mname = name.replace("(", "")
@@ -82,6 +129,15 @@ def get_pubchem_names(monomer_name):
     return names_list
 
 def get_cirpy_smiles(monomer_name):
+
+        ''' function that gives the SMILE string for each polymer name using CIRPY API
+    input:
+        monomer_name:
+                description: monomer name 
+                type: string
+                example: butadiene
+    return: a Smile string '''
+
     cirpy_smiles = []
     for name in monomer_name:
         mname = name.replace("(", "")
@@ -94,6 +150,15 @@ def get_cirpy_smiles(monomer_name):
     return cirpy_smiles
 
 def get_cirpy_names(monomer_name):
+
+        ''' function that gives the iupac name for each polymer name using Pubchem API
+    input:
+        monomer_name:
+                description: monomer name 
+                type: string
+                example: butadiene
+    return: a monomer name '''
+
     cirpy_names = []
     for name in monomer_name:
         mname = name.replace("(", "")

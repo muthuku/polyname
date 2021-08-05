@@ -8,6 +8,14 @@ import json
 # convert a simple dictionary
 # of key/value pairs into XML
 def dict_to_xml(tag, d):
+	'''function to convert a JSON file into a XML file
+
+	Input: 
+		description: article in JSON file format
+		file type: .json file format
+		example: "example_data_1.json"
+	Returns: article in XML format'''
+	
 	elem = Element(tag)
 	for key, val in d.items():
 		child = Element(key)

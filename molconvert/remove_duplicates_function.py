@@ -6,6 +6,16 @@ import numpy as np
 
 #remove duplicates function
 def remove_duplicates_molconvert(file):
+
+	'''Function that removes duplicates from a textfile 
+
+	Input: 
+		Description: a textfile (.txt) with all chemical names outputted by molconvert
+		File type: textfile(.TXT)
+		example: names_mol.txt
+	
+	Returns: a textfile(.txt) with chemical names and duplicates are removed'''
+
 	#with open file, read lines and make a list
 	with open(file) as f:
 		content = f.readlines()

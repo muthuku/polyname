@@ -7,8 +7,17 @@ import numpy as np
 import itertools
 import csv
 
-#function polymer_extract, Input:file with all chemical names 
 def polymer_extract(file):
+
+	'''function that extracts all polymers from a textfile of chemical entities
+	input:
+		file:
+			description: a file that contains all chemical names
+			file type: textfile(.txt)
+			example: /Users/pmuthuku/Documents/python_scripts_suli/workingscripts/polyname_scripts/all_names.txt
+
+	returns: a list of polymers'''
+	
 	#read file into data frame
 	df = pd.read_table(file)
 	#isolate names that contain poly or Poly, case sensitive

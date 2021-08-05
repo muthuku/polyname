@@ -6,8 +6,17 @@ import os
 import glob
 import pandas as pd
 
-#write a function to combine all output texts into a single textfile
+
 def combine_name_cde(filepath):
+
+	'''function that takes in a directory of textfiles and combines it into a single file
+	input:
+		filepath:
+				description: a filepath to the directory with all files
+				example: /Users/pmuthuku/Documents/python_scripts_suli/final_scripts/all_articles
+
+	returns: a textfile with all chemical names '''
+
 	#use glob to create a list of file names ending in .txt to be run in this script 
 	txt_list = glob.glob('{}/*.txt'.format(filepath))
 	print(txt_list)
@@ -19,8 +28,16 @@ def combine_name_cde(filepath):
 			with open(f, "rb") as infile: 
 				outfile.write(infile.read())
 
-#takes in the textfile all_names and returns a list with final cems in it 
+
 def remove_duplicate_cde(filename):
+
+	''' a function that removes duplicates from textfile with all chemical names
+	input:
+		filename: a file that contains all chemical names
+		file type: text file(.TXT)
+		example: "all_names.txt"
+
+	returns: a list with final chemical names and no duplicates'''
 	final_cems = []
 	#write a dataframe with all names in it with a tital final cems since each individual file doesnt have a header
 	df = pd.read_csv("all_names.txt", names = ["Final_CEMS"])

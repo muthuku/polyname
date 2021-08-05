@@ -12,8 +12,18 @@ import nltk
 from chemdataextractor import Document
 
 
-#chemdataextractor function to be fun on each file within directory, takes in path to file as an input
+
 def cde_func(filepath):
+
+	'''python script to run CDE and extract chemical entities into a list, and remove duplicates before outputting a textfile
+
+	Input: 
+		description: a JSON, HTML or PDF input of a article
+		filetype: .json,.html,.pdf
+		example: article1.json
+
+	Returns: a list of chemical entities'''
+
 	#initialize list, open file
 	chem_cems = []
 	file = open(filepath,'rb')
@@ -29,8 +39,18 @@ def cde_func(filepath):
 		if string1 not in chem_cems:
 			chem_cems.append(string1)
 	return chem_cems
-#uppercase function to make sure names are normalized, takes in a list as input 
+
 def uppercase(any_list):
+
+	''' function to normalize the chemical names outputted and capitalize them
+
+	Input: 
+		description: a list of chemical entities
+		type: list
+		example: ['carbon', 'polyester']
+
+	Returns: a list of capital chemical entities to be put into a file'''
+
 	#initialze list
 	final_cems = []
 	#loop through list, capitalize and append to final list
@@ -39,15 +59,3 @@ def uppercase(any_list):
 		final_cems.append(string1)
 	return final_cems
 '''
-#using the functions, write a file path where all articles are (15 JSON articles for this example)
-files_path = '/Users/pmuthuku/Desktop/test_articles_html'
-#loop through directory and generate a path to each filename
-for filename in os.listdir(files_path):
-	file_path = "{}/{}".format(files_path,filename)
-	#run cde_func on each file to get a list of CEMS
-	new_list = cde_func(file_path)
-	#run uppercase function on list outputed from cde_func
-	final_list = uppercase(new_list)
-	#write a pandas dataframe with the list then write it to a text file with/without header
-	df = pd.DataFrame(final_list, columns = ["Final_Chemical_Entities"])
-	df.to_csv("{}.txt".format(filename), header = False, index = False)'''
