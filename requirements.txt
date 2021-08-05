@@ -15,3 +15,4 @@ chemdataextractor
 subprocess
 json
 glob
+dict2xml

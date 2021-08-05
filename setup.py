@@ -31,7 +31,8 @@ INSTALL_REQUIRES = [
       'chemdataextractor',
       'subprocess',
       'json',
-      'glob'
+      'glob',
+      'dict2xml'
 
 ]
 

@@ -21,5 +21,6 @@ dependencies:
     - subprocess
     - string
     - itertools
+    - dict2xml
 
 
