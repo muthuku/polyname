@@ -6,6 +6,8 @@ the remove any duplicate entries and then return the database extract and the on
 import pandas as pd
 import numpy as np
 import itertools
+import cirpy
+import pubchempy as pcp
 import csv
 
 
