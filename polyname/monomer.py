@@ -98,7 +98,7 @@ def get_cirpy_names(monomer_name):
     for name in monomer_name:
         mname = name.replace("(", "")
         mname = mname.replace(")", "")
-        names = cirpy.resolve(mname, 'iupac_name')
+        names = cirpy.resolve(mname, 'names')
         if names is None:
             cirpy_names.append("None")
         else:
