@@ -1,61 +1,16 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# In[32]:
+
+
 import pandas as pd
 import numpy as np
 import itertools
 import pubchempy as pcp
 import cirpy
 
-
-
-'''data= pd.read_csv('210512_search_criteria_processed_html6423f3912605d57a99a1bf597fc3dc0fcfd3d387f812b76972b6788961f39554.csv',index_col=0)
-print(data)
-data2 = pd.read_table('polymer_extract_still.csv')
-print(data2)
-dfnames = pd.DataFrame(data.polymername.unique(),columns=['polyname'])
-dfnames2 = pd.DataFrame(data2.polymername.unique(),columns=['polyname'])
-
-print(dfnames)
-print(dfnames2)'''
-def lowercase(anylist):
-
-    '''a function that takes the list of polymers and makes it lowercase
-        input:
-            anylist:
-                description: a list of polymer names
-                type: list
-                example: [Poly(butadiene), Poly(vinyl alcohol)]
-        returns a list of polymers'''
-
-    final_poly = []
-    for string in anylist:
-        string1 = string.lower()
-        final_poly.append(string1)
-    return final_poly
-
-
 def strip_poly(row,stripstrings):
-
-    '''goes through each row of a dataframe and strips it down to just monomer names
-    input:
-        row:
-            description: polymer name
-            type: string
-            example" poly(butadiene)
-        stripstrings:
-            description: all the different poly names to strip away
-            type: list of things to strip
-            example:  [
-               ['poly(',')'],
-               ['poly[(',')]'],
-               ['poly[',']'],
-               ['poly{','}'],
-               ['poly-','']
-               ]
-
-    return: monomer names'''
-
     s = row.polyname
     new_list = []
     for stripstring in stripstrings:
@@ -85,15 +40,6 @@ stripstrings = [
                ]
 
 def get_pubchem_smiles(monomer_name):
-
-    ''' function that gives the SMILE string for each polymer name using Pubchem API
-    input:
-        monomer_name:
-                description: monomer name 
-                type: string
-                example: butadiene
-    return: a Smile string '''
-
     smile_list = []
     for name in monomer_name:
         mname = name.replace("(", "")
@@ -106,16 +52,7 @@ def get_pubchem_smiles(monomer_name):
             smile_list.append(smile)
     return smile_list
 
-
 def get_cirpy_smiles(monomer_name):
- ''' function that gives the SMILE string for each polymer name using CIRPY API
-    input:
-        monomer_name:
-                description: monomer name 
-                type: string
-                example: butadiene
-    return: a Smile string '''
-
     cirpy_smiles = []
     for name in monomer_name:
         mname = name.replace("(", "")
@@ -127,47 +64,6 @@ def get_cirpy_smiles(monomer_name):
             cirpy_smiles.append(smiles)
     return cirpy_smiles
 
-'''#dfnames['polyname_1'] = dfnames.apply(lambda row: strip_poly(row,stripstrings),axis=1)
-#dfnames2['polyname_1'] = dfnames2.apply(lambda row: strip_poly(row,stripstrings),axis=1)
-monomer_names1 = dfnames.apply(lambda row: strip_poly(row,stripstrings),axis=1)
-dfnames['polyname_1'] = monomer_names1
-print(dfnames)
-
-monomer_names2 = dfnames2.apply(lambda row: strip_poly(row,stripstrings),axis=1)
-dfnames2['polyname_1'] = monomer_names2
-print(dfnames2)
-dfnames2['Pubchem Smiles'] = monomer_names2.apply(lambda row: get_pubchem_smiles(row))
-dfnames2['Cirpy Smiles'] = monomer_names2.apply(lambda row: get_cirpy_smiles(row))
-dfnames2.to_csv("example_extract_monomers.csv", index = False)
-#print(dfnames)
-#smile_strings = get_smiles(tmp)
-#dfnames['Smile strings'] = smile_strings
-#print("XYZ")
-#print(tmp)
-
-
-
-# Deal with Alts
-df = dfnames[dfnames.polyname_1.str.contains('-alt-')]
-print(df)
-
-row = df.iloc[0]
-
-namelist = []
-for polyname in df.polyname_1:
-    namelist.append(polyname.split('-alt-'))
-dsnames = pd.Series(list(itertools.chain(*namelist)))
-print(dsnames)
-
-
-
-
-dsnames.shape
-
-
-dsnames.unique()
-
-'''
 
 
 
