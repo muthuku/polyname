@@ -92,6 +92,13 @@ def get_pubchem_smiles(monomer_name):
     return smile_list
 
 def get_cirpy_smiles(monomer_name):
+    '''function that gives the SMILE string for each polymer name using CIRPY API
+    input:
+        monomer_name: 
+            description: monomer name
+            type: string
+            example: butadiene
+    return: a list of SMILE string from CIRPY'''
     cirpy_smiles = []
     for name in monomer_name:
         mname = name.replace("(", "")
