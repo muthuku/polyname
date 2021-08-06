@@ -106,31 +106,9 @@ def get_pubchem_smiles(monomer_name):
             smile_list.append(smile)
     return smile_list
 
-def get_pubchem_names(monomer_name):
-
-        ''' function that gives the iupac name for each polymer name using Pubchem API
-    input:
-        monomer_name:
-                description: monomer name 
-                type: string
-                example: butadiene
-    return: a monomer name '''
-
-    names_list = []
-    for name in monomer_name:
-        mname = name.replace("(", "")
-        mname = mname.replace(")", "")
-        result = pcp.get_compounds(mname, 'name')
-        if result == []:
-            names_list.append("None")
-        else:
-            name = result[0].iupac_name
-            names_list.append(name)
-    return names_list
 
 def get_cirpy_smiles(monomer_name):
-
-        ''' function that gives the SMILE string for each polymer name using CIRPY API
+ ''' function that gives the SMILE string for each polymer name using CIRPY API
     input:
         monomer_name:
                 description: monomer name 
@@ -148,27 +126,6 @@ def get_cirpy_smiles(monomer_name):
         else:
             cirpy_smiles.append(smiles)
     return cirpy_smiles
-
-def get_cirpy_names(monomer_name):
-
-        ''' function that gives the iupac name for each polymer name using Pubchem API
-    input:
-        monomer_name:
-                description: monomer name 
-                type: string
-                example: butadiene
-    return: a monomer name '''
-
-    cirpy_names = []
-    for name in monomer_name:
-        mname = name.replace("(", "")
-        mname = mname.replace(")", "")
-        name = cirpy.resolve(mname, 'iupac_name')
-        if name is None:
-            cirpy_names.append("None")
-        else:
-            cirpy_names.append(name)
-    return cirpy_names
 
 '''#dfnames['polyname_1'] = dfnames.apply(lambda row: strip_poly(row,stripstrings),axis=1)
 #dfnames2['polyname_1'] = dfnames2.apply(lambda row: strip_poly(row,stripstrings),axis=1)
