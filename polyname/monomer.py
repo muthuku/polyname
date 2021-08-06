@@ -10,6 +10,21 @@ import itertools
 import pubchempy as pcp
 import cirpy
 
+def lowercase(anylist):
+    '''a function that takes the list of polymers and makes it lowercase
+    input:
+        anylist:
+            description: a list of uppercase polymer names
+            type: list
+            example: Poly(butadiene), Poly(vinyl alcohol)]
+    returns: a list of polymer names'''
+
+    final_poly = []
+    for string in anylist:
+        string1 = string.lower()
+        final_poly.append(string1)
+    return final_poly
+
 def strip_poly(row,stripstrings):
     s = row.polyname
     new_list = []

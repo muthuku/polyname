@@ -58,4 +58,4 @@ def uppercase(any_list):
 		string1 = string.capitalize()
 		final_cems.append(string1)
 	return final_cems
-'''
+
