@@ -26,6 +26,23 @@ def lowercase(anylist):
     return final_poly
 
 def strip_poly(row,stripstrings):
+    '''goes through each row of a dataframe and strips it down to just monomer names
+    inputs:
+        row:
+            decription: polymer name
+            type: string
+            example: poly(butadiene)
+        stripstring:
+            description: all the different poly names to strip away
+            type: list of things to strip
+            example: [
+               ['poly(',')'],
+               ['poly[(',')]'],
+               ['poly[',']'],
+               ['poly{','}'],
+               ['poly-','']
+               ]
+        retunrs: monomer names'''
     s = row.polyname
     new_list = []
     for stripstring in stripstrings:
