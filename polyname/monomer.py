@@ -77,7 +77,7 @@ def get_pubchem_smiles(monomer_name):
         monomer_name:
             description:list of monomer names
             type: list
-            example: butadieme
+            example: [butadiene,ester,carbon]
     return: a SMILE string from pubchem'''
     smile_list = []
     for name in monomer_name:
@@ -97,7 +97,7 @@ def get_cirpy_smiles(monomer_name):
         monomer_name: 
             description: list of monomer names
             type: list
-            example: butadiene
+            example: [butadiene,ester,carbon]
     return: a list of SMILE string from CIRPY'''
     cirpy_smiles = []
     for name in monomer_name:
@@ -116,7 +116,7 @@ def get_pubchem_names(monomer_name):
         monomer_name:
             description: list of monomer names
             type: list
-            example: butadiene
+            example: [butadiene,ester,carbon]
         return: a list of SMILE string from CIRPY'''
     names_list = []
     for name in monomer_name:
@@ -131,6 +131,13 @@ def get_pubchem_names(monomer_name):
     return names_list
 
 def get_cirpy_names(monomer_name):
+    '''function that gives the iupac name for each polymer name using Pubchem API
+        input:
+            monomer_name:
+                description: list of monomer names
+                type: list
+                example:[butadiene,ester,carbon]
+        return: list of SMILE strings from cirpy'''
     cirpy_names = []
     for name in monomer_name:
         mname = name.replace("(", "")
