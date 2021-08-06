@@ -1,5 +1,4 @@
-Polymer Names,Monomer Smiles
-Poly(butyl methacrylate),CCCCOC(=O)C(=C)C
-Poly(butadiene),C=CC=C
-Poly(vinylalcohol),OC=C
-Poly(styrene),C=Cc1ccccc1
+Polymer Names,Monomer Smiles,Monomer name
+Poly(ethylene),C=C,ethylene
+Poly(propylene),C=CC,propylene
+Poly(styrene),C=Cc1ccccc1,styrene

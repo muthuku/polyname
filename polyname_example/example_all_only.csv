@@ -1,0 +1,18 @@
+polyname,stripped_monomer_name,Cirpy Monomer Smiles,Cirpy Monomer Iupac Names
+poly(3-hydroxybutyrate),['3-hydroxybutyrate'],['CC(O)CC([O-])=O'],['3-hydroxybutanoate']
+poly3-hydroxybutyrate-co-3-hydroxyvalerate),['3-hydroxybutyrate'],['CC(O)CC([O-])=O'],['3-hydroxybutanoate']
+poly(p-dioxanone),['p-dioxanone'],['O=C1COCCO1'],"['1,4-Dioxan-2-one']"
+poly(hydroxyalkanoate),['hydroxyalkanoate'],['None'],['None']
+poly(styrene),['styrene'],['C=Cc1ccccc1'],['Ethenylbenzene']
+poly(ester),['ester'],['None'],['None']
+poly(oleðn),['oleðn'],['None'],['None']
+poly(ethylene),['ethylene'],['C=C'],['Ethene']
+poly(glycolic acid),['glycolic acid'],['OCC(O)=O'],['2-Hydroxyacetic acid']
+poly(vinyl alcohol),['vinyl alcohol'],['OC=C'],['Ethenol']
+poly(carbonate),['carbonate'],['[O-]C([O-])=O'],['carbonate']
+poly(anhydride),['anhydride'],['None'],['None']
+poly(lactic acid),['lactic acid'],['CC(O)C(O)=O'],['2-hydroxypropanoic acid']
+poly(propylene),['propylene'],['CC=C'],['prop-1-ene']
+poly(caprolactone),['caprolactone'],['O=C1CCCCCO1'],['oxepan-2-one']
+poly(a-ester),['a-ester'],['None'],['None']
+poly(dioxanone),['dioxanone'],['O=C1COCCO1'],"['1,4-Dioxan-2-one']"
