@@ -110,6 +110,19 @@ def get_cirpy_smiles(monomer_name):
             cirpy_smiles.append(smiles)
     return cirpy_smiles
 
+def get_pubchem_names(monomer_name):
+    names_list = []
+    for name in monomer_name:
+        mname = name.replace("(","")
+        nmane = mname.replace(")","")
+        result = pcp.get_compounds(mmane,'name')
+        if result == []:
+            names_list.append("None")
+        else:
+            name = result[0].iupac_name
+            names_list.append(name)
+    return names_list
+
 
 
 
