@@ -72,6 +72,13 @@ stripstrings = [
                ]
 
 def get_pubchem_smiles(monomer_name):
+    '''function that gives the SMILE string for each polymer name using Pubchem API
+    inputs:
+        monomer_name:
+            description:monomer name
+            type: string
+            example: butadieme
+    return: a SMILE string from pubchem'''
     smile_list = []
     for name in monomer_name:
         mname = name.replace("(", "")
