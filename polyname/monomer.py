@@ -121,8 +121,8 @@ def get_pubchem_names(monomer_name):
     names_list = []
     for name in monomer_name:
         mname = name.replace("(","")
-        nmane = mname.replace(")","")
-        result = pcp.get_compounds(mmane,'name')
+        mname = mname.replace(")","")
+        result = pcp.get_compounds(mname,'name')
         if result == []:
             names_list.append("None")
         else:

@@ -1,52 +1,52 @@
 All_names
-Plla
-Biopol
-Pga
-Poly(p-dioxanone)
-Vicryl
-Pira
-Pla
-Poly(hydroxyalkanoate)s
-Phbv
+Packaging.8
 Plastic fate
-Polystyrene
-Pgla
-Polyesters
-Polyoleðns
-Landðll
-P3hb
 Phas
-Oxygen
+Polyesters
+Phbv
+Polydioxanones
+Methane
+Pga
+Pla
+Nickel
+Poly(hydroxyalkanoate)s
+Vinyl
+Biopol
+Dexon
+Polyanhydrides
+Poly(a-ester)s
+Landðll
+Polydioxanone
+Pva
+T ighe
+Poly(glycolic acid)
+Pcl
+Polycarbonates
+Polystyrene
+Polyoleðns
 "70·7
 3·2"
-Polyethylene
-Poly(glycolic acid)
-Britain
-Lactomer
-Pcl
-Nickel
+Pira
+Gelatins
 "Poly(3-hydroxybutyrate)
 poly(3-hydroxybutyrate-co-3-hydroxyvalerate)"
-Packaging.8
-Poly(vinyl alcohol)
-Polyester
-Dexon
-Polycarbonates
 Petroleum
-Vinyl
-Methane
-Polyanhydrides
-Pack
-Pva
-Naphtha
+Plla
+Polypropylene
 "Poly(lactic
 acid)"
-Polypropylene
+Polyethylene
 Poly(caprolactone)
-Poly(a-ester)s
+Poly(p-dioxanone)
+Polyester
+Oxygen
 Birmingham b4 7et
-Polydioxanone
+Pack
+Britain
+Vicryl
+Pgla
 Beneðts
-Polydioxanones
-T ighe
-Gelatins
+P3hb
+Lactomer
+Naphtha
+Poly(vinyl alcohol)
