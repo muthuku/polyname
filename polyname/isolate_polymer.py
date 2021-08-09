@@ -28,7 +28,7 @@ def polymer_extract(anylist):
 			string = cap.replace("(", "")
 			string1 = string.replace(")","")
 			string2 = string1.strip()
-			string3 = ''.join(char for char in string2 if char.isalnum())
+			string3 = string2.replace('"', "")
 			string4 = string3[:4] + "(" + string3[4:]
 			string5 = string4.rstrip("s")
 			final_name = string5 + ")"
