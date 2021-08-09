@@ -7,7 +7,7 @@ import glob
 import pandas as pd
 
 
-def combine_name_cde(filepath):
+def combine_files_cde(filepath):
 
 	'''function that takes in a directory of textfiles and combines it into a single file
 	input:

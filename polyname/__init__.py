@@ -11,8 +11,8 @@ from .monomer import get_cirpy_names
 from .monomer import lowercase
 from .cde_function import cde_func
 from .cde_function import uppercase
-from .combine_names import combine_name_cde
-from .combine_names import remove_duplicate_cde
-from .callCDEsh import command_line
+from .combine_files import combine_files_cde
+from .combine_files import remove_duplicate_cde
+from .callCDEsh import command_line_cde
 
 
