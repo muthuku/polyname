@@ -29,7 +29,7 @@ def combine_files_cde(filepath):
 				outfile.write(infile.read())
 
 
-def remove_duplicate_cde(filename):
+def remove_duplicate_file(filename):
 
 	''' a function that removes duplicates from textfile with all chemical names
 	input:

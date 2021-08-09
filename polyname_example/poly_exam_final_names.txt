@@ -1,6 +1,6 @@
 Poly(propylene)
-Poly(3-hydroxybutyrate)
-poly3-hydroxybutyrate-co-3-hydroxyvalerate)
+"Poly(3-hydroxybutyrate
+poly3-hydroxybutyrate-co-3-hydroxyvalerate)"
 Poly(ester)
 Poly(glycolic acid)
 Poly(p-dioxanone)
@@ -11,7 +11,8 @@ Poly(carbonate)
 Poly(ester)
 Poly(styrene)
 Poly(dioxanone)
-Poly(lactic acid)
+"Poly(lactic
+acid)"
 Poly(oleðn)
 Poly(caprolactone)
 Poly(vinyl alcohol)

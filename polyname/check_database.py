@@ -50,7 +50,7 @@ def check_database(file,database):
 	return names,smiles
 
 
-def remove_duplicates(names,smiles):
+def remove_duplicate_names_smiles(names,smiles):
 
 	''' a function that removes duplicates from the original list of names and smiles extracted from database
 	inputs:

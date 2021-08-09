@@ -10,7 +10,7 @@ done < $file
 
 cat $file
 
-cde extract $file -o results.json
+cde extract $file -o $file.json
 
 #cde tokenize sentences $file 
 #cde tokenize words $file
