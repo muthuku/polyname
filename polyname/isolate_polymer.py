@@ -7,9 +7,9 @@ import numpy as np
 import itertools
 import csv
 
-def polymer_extract(file):
+def polymer_extract(anylist):
 
-	'''function that extracts all polymers from a textfile of chemical entities
+	'''function that extracts all polymers from a list of chemical entities
 	input:
 		file:
 			description: a file that contains all chemical names
@@ -18,29 +18,20 @@ def polymer_extract(file):
 
 	returns: a list of polymers'''
 	
-	#read file into data frame
-	df = pd.read_table(file)
-	#isolate names that contain poly or Poly, case sensitive
-	df2 = df[df["All_names"].str.contains("poly")]
-	df3 = df[df["All_names"].str.contains("Poly")]
-	#concacenate them together
-	result = pd.concat([df2,df3])
-	#turn it into a list called df4
-	df4 = result["All_names"].to_list()
-	#df4 = result.loc[result["All_names"].str[0].isin(['p']),'All_names'].tolist()
 	#initialize new list
 	new_list = []
 	#loop through df4 list with all polymer names
-	for name in df4:
+	for name in anylist:
 		#if it starts with poly, capitalize 1st letter, add paraentehsis, strip whitespace etc. and return new list
 		if name.startswith('poly') or name.startswith('Poly'):
 			cap = name[:1].upper() + name[1:]
 			string = cap.replace("(", "")
 			string1 = string.replace(")","")
 			string2 = string1.strip()
-			string3 = string2[:4] + "(" + string2[4:]
-			string4 = string3.rstrip("s")
-			final_name = string4 + ")"
+			string3 = ''.join(char for char in string2 if char.isalnum())
+			string4 = string3[:4] + "(" + string3[4:]
+			string5 = string4.rstrip("s")
+			final_name = string5 + ")"
 			new_list.append(final_name)
 	return new_list
 #using function, have a file name, run function polymer_extract which returns a list

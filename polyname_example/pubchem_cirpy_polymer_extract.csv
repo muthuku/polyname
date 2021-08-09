@@ -1,0 +1,18 @@
+polyname,stripped_monomer_name,Pubchem Smiles,Cirpy Monomer Smiles,Pubchem Names,Cirpy Monomer Iupac Names
+poly(3-hydroxybutyrate,['3-hydroxybutyrat'],['None'],['CC(O)CC([O-])=O'],['None'],['3-hydroxybutanoate']
+poly3-hydroxybutyrate-co-3-hydroxyvalerate),['3-hydroxybutyrat'],['None'],['CC(O)CC([O-])=O'],['None'],['3-hydroxybutanoate']
+poly(ester),['ester'],['None'],['None'],['None'],['None']
+poly(dioxanone),['dioxanone'],['C1COC(=O)CO1'],['O=C1COCCO1'],"['1,4-dioxan-2-one']","['1,4-Dioxan-2-one']"
+poly(hydroxyalkanoate),['hydroxyalkanoate'],['None'],['None'],['None'],['None']
+poly(anhydride),['anhydride'],['C1=CN(C(=O)NC1=O)[C@H]2[C@@H]([C@@H]([C@H](O2)COP(=O)(O)OP(=O)(C[C@@H]3[C@@H]([C@H]([C@H]([C@H](O3)CO)O)O)O)O)O)O'],['None'],"['[[(2R,3S,4R,5R)-5-(2,4-dioxopyrimidin-1-yl)-3,4-dihydroxyoxolan-2-yl]methoxy-hydroxyphosphoryl]oxy-[[(2S,3R,4S,5R,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]methyl]phosphinic acid']",['None']
+poly(a-ester),['a-ester'],['None'],['None'],['None'],['None']
+poly(glycolic acid),['glycolic acid'],['C(C(=O)O)O'],['OCC(O)=O'],['2-hydroxyacetic acid'],['2-Hydroxyacetic acid']
+poly(carbonate),['carbonate'],['C(=O)([O-])[O-]'],['[O-]C([O-])=O'],['carbonate'],['carbonate']
+poly(styrene),['styrene'],['C=CC1=CC=CC=C1'],['C=Cc1ccccc1'],['styrene'],['Ethenylbenzene']
+poly(oleðn),['oleðn'],['None'],['None'],['None'],['None']
+poly(propylene),['propylene'],['CC=C'],['CC=C'],['prop-1-ene'],['prop-1-ene']
+poly(lactic acid),['lactic acid'],['CC(C(=O)O)O'],['CC(O)C(O)=O'],['2-hydroxypropanoic acid'],['2-hydroxypropanoic acid']
+poly(ethylene),['ethylene'],['C=C'],['C=C'],['ethene'],['Ethene']
+poly(caprolactone),['caprolactone'],['C1CCC(=O)OCC1'],['O=C1CCCCCO1'],['oxepan-2-one'],['oxepan-2-one']
+poly(p-dioxanone),['p-dioxanone'],['C1COC(=O)CO1'],['O=C1COCCO1'],"['1,4-dioxan-2-one']","['1,4-Dioxan-2-one']"
+poly(vinyl alcohol),['vinyl alcohol'],['C=CO'],['OC=C'],['ethenol'],['Ethenol']
